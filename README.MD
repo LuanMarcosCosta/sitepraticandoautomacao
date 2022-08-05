@@ -24,4 +24,12 @@
     <img src="src/Assets/ToReadme/relatorio.gif">
 </p>
 
+##
+
+## Para o projeto rodar basta baixá-lo, caso queira gerar/executar o relatório:
+
+
+<p align="center">
+    <img src="src/Assets/ToReadme/relatorio2.gif">
+</p>
 
